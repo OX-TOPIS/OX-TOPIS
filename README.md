@@ -2,6 +2,7 @@
   
 ### 💻 GitHub Profile Stats
 <b>
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OX-TOPIS&theme=radical&show_icons=true&text_color=ffffff)
   
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
